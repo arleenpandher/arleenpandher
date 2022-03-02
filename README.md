@@ -10,9 +10,9 @@ Check out some of my personal projects:
 
 ### Connect with Me 🔭
 <p>
- <a href="https://github.com/arleenpandher" target="_blank" rel="noopener noreferrer"> <img target="_blank src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
- <a href="https://www.linkedin.com/in/arleenpandher/" target="_blank" rel="noopener noreferrer"> <img target="_blank src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:arleenpandher11@gmail.com"> <img target="_blank src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://github.com/arleenpandher" target="_blank" rel="noopener noreferrer"> <img target="_blank" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
+ <a href="https://www.linkedin.com/in/arleenpandher/" target="_blank" rel="noopener noreferrer"> <img target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:arleenpandher11@gmail.com"> <img target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
 ### 🧰 Languages and Tools:
