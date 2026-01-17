@@ -1,12 +1,5 @@
 ### Hi there 👋 My name is Arleen 
 
-### About Me 
-I am a recent Chemical Engineering graduate from McMaster University turned to a Product Manager at VersaBank turned to a Full Stack Engineer.  I am extremly passionate about solving problems and constanty learning new things!
-
-Check out some of my personal projects:
-  - ⚡ Plundering Pirates- https://arleenpandher.github.io/Pirate_Race/
-  - 🌱 Herozon - https://herozon.herokuapp.com/#/
-  - 👯 Mevert - https://mevert.herokuapp.com/#/
 
 ### Connect with Me 🔭
 <p>
